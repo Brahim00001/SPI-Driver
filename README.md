@@ -15,8 +15,6 @@ Technologies Used:
 ✅ STM32 HAL (Hardware Abstraction Layer)
 ✅ SPI Protocol
 
-Code Snippet:
-(Provide a relevant function snippet, e.g., eSpi_eMasterTransmit_Cmd)
 
 Application:
 
